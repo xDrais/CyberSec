@@ -16,3 +16,13 @@
 
 ![alt text](6.png)
 ![alt text](7.png)
+
+### HTTP web server in one pyhton line
+
+![alt text](8.png)
+![alt text](9.png)
+![alt text](10.png)
+
+### Python CGI scripts
+
+![alt text](11.png)
